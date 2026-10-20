@@ -51,5 +51,3 @@ This ensures patients in isolation can receive timely attention if critical cond
 
 ---
 
-Would you like me to help write a **setup guide**, **circuit diagram**, or **code usage section** next?
-
